@@ -1,4 +1,4 @@
-<header class="container-fluid" style="background-color:#6C8CD5;">
+<header class="container-fluid" style="background-color:#235D79;">
 	<div class="container">
 		<div class="row-fluid" style="text-align:center;">
 			<ul class="nav nav-pills" style="margin:0;padding:15px 0;">

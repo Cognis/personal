@@ -1,6 +1,6 @@
 <style type="text/css">
 	.stil a {
-		background-color:#6C8CD5;
+		background-color:#3CA0D0;
 	}
 	
 	.stil a:hover {
