@@ -1,6 +1,10 @@
 <div class="container">
-	<div class="row-fluid">
-		<div class="tab-content">
+	<div class="row-fluid" style="margin-top:20px;padding:10px;border-radius:15px;">
+		<div class="span3">
+			<img src="img/naslovnica.png" alt="Matija" title="Matija" style="border-radius:15px;" />
+		</div><!-- span3 -->
+		
+		<div class="tab-content span9">
 		    <!-- naslovnica -->
 		    <?php include_once('_include/_include.tab-naslovnica.php') ?>
 		    <!-- naslovnica -->

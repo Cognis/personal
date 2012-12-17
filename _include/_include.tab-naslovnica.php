@@ -9,12 +9,8 @@
 	}
 </style>
 
-<div class="tab-pane active stil" id="naslovnica" style="margin-top:20px;">
-	<div class="span3">
-		<img src="img/naslovnica.png" alt="Matija" title="Matija" style="border-radius:15px; border:5px solid brown" />
-	</div><!-- span2 -->
-	
-	<div class="span9">
+<div class="tab-pane active stil" id="naslovnica">
+	<div class="row-fluid" style="background-color:#235D79;border-radius:15px;">
 		<div class="accordion" id="accordion2">
 			<div class="accordion-group">
 				<div class="accordion-heading">
@@ -55,5 +51,5 @@
 				</div>
 			</div>
 		</div><!-- accordion -->
-	</div><!-- span10 -->
+	</div><!-- container -->
 </div>
