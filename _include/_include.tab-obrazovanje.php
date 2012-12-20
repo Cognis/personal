@@ -1,5 +1,5 @@
 <div class="tab-pane" id="obrazovanje">
-	<div class="row-fluid" style="background-color:#6C8CD5;border-radius:15px;">
+	<div class="row-fluid">
 		<div class="accordion" id="accordion2">
 			<div class="accordion-group">
 				<div class="accordion-heading">

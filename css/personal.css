@@ -1,3 +1,32 @@
 body {
 	background-color:#086FA1;
 }
+
+.accordion {
+	margin-bottom:0;
+}
+
+.tab-pane a {
+	background-color:#3CA0D0;
+}
+
+.tab-pane li a {
+	background-color:#235D79;
+}
+
+.tab-pane a:hover {
+	background-color:#ffffff;
+	text-decoration:none;
+}
+
+.tab-pane .row-fluid {
+	border-radius:4px;
+}
+
+.tab-pane#naslovnica .row-fluid {
+	background-color:#235D79;
+}
+
+.tab-pane#obrazovanje .row-fluid {
+	background-color:#6C8CD5;
+}
